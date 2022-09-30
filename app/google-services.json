@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396933963044",
+    "project_id": "fir-gogolesignin",
+    "storage_bucket": "fir-gogolesignin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396933963044:android:084979123f06fcabff67b1",
+        "android_client_info": {
+          "package_name": "com.example.firebasegoolesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396933963044-4ur1aa5333mmbrhn4d8cfq4mfis0v6rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi3mJzduz0AgJtfkODDRzVm7bnvGwFo7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396933963044-4ur1aa5333mmbrhn4d8cfq4mfis0v6rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
